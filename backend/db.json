@@ -1,0 +1,14 @@
+{
+    "people":[
+        {
+            "id": 1,
+            "firstName": "Joao",
+            "lastName": "Silva",
+            "avatar": "https://i.pravatar.cc/150?img=1",
+            "addres": "Rua A, 123",
+            "email": "joao@gmail.com"
+
+        }
+
+    ]
+}
